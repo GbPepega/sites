@@ -1,0 +1,329 @@
+body{
+    margin: 0;
+    font-family: 'Montserrat', 'Arial', sans-serif;
+}
+
+.Logo{
+    margin: 80px 550px;
+}
+
+
+.main-menu{
+    
+    display: flex;
+    align-items: center; 
+}
+
+.main-menu-item{
+    color: #333333;
+    text-decoration: none;
+    font-weight: 500;
+    margin-left: 160px;
+    margin-right: 5px;
+    font-size: 18px;
+}
+
+.Modern-buildings{
+    position:absolute;
+    left: 1050px;
+    top: 520px; 
+}
+
+.News{
+    position:absolute;
+    left: 25px;
+    top: 250px; 
+}
+
+
+.Architecture-fashion{
+    position:absolute;
+    left: 1050px;
+    top: 250px; 
+}
+
+.Pag{
+    position:absolute;
+    left: 725px;
+    top: 850px; 
+}
+
+.office-buldings{
+    position:absolute;
+    left: 25px;
+    top: 1120px; 
+}
+.buildings-item{
+
+    position:absolute;
+    font: 'Montserrat', 'Arial', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    top: 1900px;
+    font-weight: 500;
+    margin-left: 50px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+
+.live-rooms{
+    list-style:none;
+    display: block;
+    position:absolute;
+    font: 'Montserrat', 'Arial', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    top: 1780px;
+    font-weight: 500;
+    margin-left: 620px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+.up-arrow{
+    position:absolute;
+    left: 1550px;
+    top: 1760px; 
+}
+
+
+
+.sky{
+    position:absolute;
+    left: 580px;
+    top: 1120px; 
+}
+
+.windows{
+    position:absolute;
+    left: 580px;
+    top: 1480px; 
+}
+
+.glass-cube{
+    position:absolute;
+    left: 1040px;
+    top: 1120px; 
+}
+
+.line{
+    position:absolute;
+    left: 580px;
+    top: 1780px; 
+}
+
+.back{
+    position:absolute;
+    left: -150px;
+    top: 2100px; 
+}
+
+
+.subs{
+    position:absolute;
+    left: 400px;
+    top: 2180px; 
+}
+
+.email{
+    position:absolute;
+    left: 500px;
+    top: 2250px; 
+}
+
+.blackB{
+    position:absolute;
+    left: 870px;
+    top: 2250px; 
+}
+
+
+
+
+
+
+
+
+.red-button{
+    position:absolute;
+    left: 25px;
+    top: 1000px; 
+}
+
+.red-button2{
+    position:absolute;
+    left: 25px;
+    top: 2550px; 
+}
+
+
+
+
+.Batton-view1{
+    position:absolute;
+    left: 125px;
+    top: 650px; 
+}
+
+.Batton-view2{
+    position:absolute;
+    left: 1090px;
+    top: 680px; 
+}
+
+
+
+
+
+.News-Text{
+    position:absolute;
+    left: 115px;
+    top: 520px; 
+}
+
+.chislo-02{
+    position:absolute;
+    left: 115px;
+    top: 450px; 
+}
+
+
+
+
+
+.religion{
+    position:absolute;
+    left: 25px;
+    top: 2650px; 
+}
+
+.religion-item{
+    display: block;
+    position:absolute;
+    font: 'Montserrat', 'Arial', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    top: 3190px;
+    font-weight: 500;
+    margin-left: 60px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+
+.tourists-buildings{
+    display: block;
+    position:absolute;
+    font: 'Montserrat', 'Arial', sans-serif;
+    color: #000000;
+    text-decoration: none;
+    top: 3120px;
+    font-weight: 500;
+    margin-left: 800px;
+    margin-right: 5px;
+    font-size: 20px;
+}
+
+
+.arka{
+    position:absolute;
+    left: 755px;
+    top: 2650px; 
+}
+
+
+.acteks{
+    position:absolute;
+    left: 1170px;
+    top: 2650px; 
+}
+
+
+.luvr{
+    position:absolute;
+    left: 755px;
+    top: 2920px;
+}
+
+
+
+
+
+
+
+.back2{
+    position:absolute;
+    left: -150px;
+    top: 3300px; 
+}
+
+.back3{
+    position:absolute;
+    left: -180px;
+    top: 3900px; 
+}
+
+.subsBL{
+    position:absolute;
+    left: 400px;
+    top: 3980px; 
+}
+
+.email2{
+    position:absolute;
+    left: 500px;
+    top: 4050px; 
+}
+
+.blackBat{
+    position:absolute;
+    left: 870px;
+    top: 4050px; 
+}
+
+.red-button3{
+    position:absolute;
+    left: 700px;
+    top: 3400px; 
+}
+
+
+
+.Big-text{
+    position:absolute;
+    left: 390px;
+    top: 3500px; 
+}
+
+.Batton-view{
+    position:absolute;
+    left: 725px;
+    top: 3700px; 
+}
+
+.Pag2{
+    position:absolute;
+    left: 770px;
+    top: 3800px; 
+}
+
+.arrow1{
+    position:absolute;
+    left: 1370px;
+    top: 3600px; 
+}
+
+
+.Batton-view3{
+    position:absolute;
+    left: 1090px;
+    top: 420px; 
+}
+
+
+.instvk{
+    position:absolute;
+    left: -150px;
+    top: 4200px; 
+}
